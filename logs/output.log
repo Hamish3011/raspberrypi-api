@@ -1,0 +1,50 @@
+INFO 2023-01-27 15:05:26 (41422) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:05:47 (63250) 	 /var/www/piapp/api_app/index.py Fadd_income L45 - Add Income
+INFO 2023-01-27 15:06:46 (121679) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:06:53 (128986) 	 /var/www/piapp/api_app/index.py Fadd_income L45 - {'amount': 20, 'description': 'hello'}
+INFO 2023-01-27 15:08:50 (245764) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:09:15 (271009) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:09:28 (284054) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:10:41 (356937) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:27:03 (1339303) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:36:58 (1933738) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:37:10 (1945532) 	 /var/www/piapp/api_app/index.py Fadd_income L45 - {'amount': 20, 'description': 'hello'}
+INFO 2023-01-27 15:37:14 (1949439) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:37:16 (1951792) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:37:20 (1956107) 	 /var/www/piapp/api_app/index.py Fadd_income L45 - {'amount': 20, 'description': 'hello'}
+INFO 2023-01-27 15:37:23 (1958712) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:38:15 (2010732) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:38:19 (2015157) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:38:21 (2017143) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:38:22 (2017980) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:38:23 (2018652) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:38:45 (2040850) 	 /var/www/piapp/api_app/index.py Fadd_income L45 - {'amount': 20, 'description': 'hello'}
+INFO 2023-01-27 15:39:01 (2056557) 	 /var/www/piapp/api_app/index.py Fadd_income L45 - {'amount': 20, 'description': 'hello'}
+INFO 2023-01-27 15:54:04 (226179) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:54:18 (239536) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:54:23 (245321) 	 /var/www/piapp/api_app/index.py Fadd_income L45 - {'amount': 20, 'description': 'hello'}
+INFO 2023-01-27 15:54:31 (253262) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:54:46 (268136) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:54:53 (274536) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:54:55 (277103) 	 /var/www/piapp/api_app/index.py Fadd_income L45 - {'amount': 20, 'description': 'hello'}
+INFO 2023-01-27 15:54:58 (279360) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:55:46 (327693) 	 /var/www/piapp/api_app/index.py Fadd_income L45 - {'amount': 20, 'description': 'hello'}
+INFO 2023-01-27 15:55:59 (340641) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:56:08 (349568) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:56:47 (388994) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 15:59:04 (525452) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 16:00:00 (582073) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 16:00:17 (599075) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 16:12:20 (1321843) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 16:13:33 (1394548) 	 /var/www/piapp/api_app/index.py Fget_incomes L35 - Navigated to incomes
+INFO 2023-01-27 16:57:32 (20890) 	 /var/www/piapp/api_app/index.py Fcreate L48 - create called successfully
+INFO 2023-01-27 16:58:26 (4087975) 	 /var/www/piapp/api_app/index.py Fget_incomes L55 - Navigated to incomes
+INFO 2023-01-27 16:59:04 (4125571) 	 /var/www/piapp/api_app/index.py Fget_incomes L55 - Navigated to incomes
+INFO 2023-01-27 17:00:40 (4221857) 	 /var/www/piapp/api_app/index.py Fget_incomes L55 - Navigated to incomes
+INFO 2023-01-27 17:07:38 (4639523) 	 /var/www/piapp/api_app/index.py Fget_incomes L55 - Navigated to incomes
+INFO 2023-01-27 17:10:45 (4826712) 	 /var/www/piapp/api_app/index.py Fcreate L48 - create called successfully
+INFO 2023-01-27 17:11:57 (4898963) 	 /var/www/piapp/api_app/index.py Fcreate L48 - create called successfully
+INFO 2023-01-27 17:44:51 (1708626) 	 /var/www/piapp/api_app/index.py Fcreate L48 - create called successfully
+INFO 2023-01-27 20:30:57 (8166371) 	 /var/www/piapp/api_app/index.py Fcreate L48 - create called successfully
+INFO 2023-02-03 14:42:59 (35667) 	 /home/hamish3011/Desktop/piapp/api_app/index.py Fcreate L48 - create called successfully
+INFO 2023-02-03 15:53:40 (1838878) 	 /home/hamish3011/Desktop/piapp/api_app/index.py Fcreate L48 - create called successfully

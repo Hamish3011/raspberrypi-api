@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Add a New Message {% endblock %}</h1>
+    <form method="post">
+        <label for="amount">Amount</label>
+        <br>
+        <input type="text" name="amount"
+               placeholder="Transaction Amount"
+               value="{{ request.form['amount'] }}"></input>
+        <br>
+
+        <label for="description">Transaction Description</label>
+        <br>
+        <textarea name="description"
+                  placeholder="Transaction Description"
+                  rows="15"
+                  cols="60"
+                  >{{ request.form['Description'] }}</textarea>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}

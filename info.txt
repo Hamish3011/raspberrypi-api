@@ -1,0 +1,3 @@
+Uses flaskrest.service which is located in /etc/systemd/system this is the service that connects apache to gunicorn and python. This is what creates the flaskrest.sock file ie the socket file letting you send post requests
+Has flaskrest.conf in /etc/apache2/sites-available
+Log files are coming from the logger in pyhton index file and gunicorn logging from gunicorn_conf.py
